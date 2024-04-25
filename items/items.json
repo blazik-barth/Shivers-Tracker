@@ -1,5 +1,250 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
+    {
+        "name": "Ash Pot Top",
+        "type": "toggle",
+        "img": "images/items/ash_top.gif",
+        "codes": "AshTop"
+    },
+    {
+        "name": "Ash Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/ash_bottom.gif",
+        "codes": "AshBottom"
+    },
+    {
+        "name": "Cloth Pot Top",
+        "type": "toggle",
+        "img": "images/items/cloth_top.gif",
+        "codes": "ClothTop"
+    },
+    {
+        "name": "Cloth Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/cloth_bottom.gif",
+        "codes": "ClothBottom"
+    },
+    {
+        "name": "Crystal Pot Top",
+        "type": "toggle",
+        "img": "images/items/crystal_top.gif",
+        "codes": "CrystalTop"
+    },
+    {
+        "name": "Crystal Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/crystal_bottom.gif",
+        "codes": "CrystalBottom"
+    },
+    {
+        "name": "Lightning Pot Top",
+        "type": "toggle",
+        "img": "images/items/lightning_top.gif",
+        "codes": "LightningTop"
+    },
+    {
+        "name": "Lightning Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/lightning_bottom.gif",
+        "codes": "LightningBottom"
+    },
+    {
+        "name": "Metal Pot Top",
+        "type": "toggle",
+        "img": "images/items/metal_top.gif",
+        "codes": "MetalTop"
+    },
+    {
+        "name": "Metal Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/metal_bottom.gif",
+        "codes": "MetalBottom"
+    },
+    {
+        "name": "Oil Pot Top",
+        "type": "toggle",
+        "img": "images/items/oil_top.gif",
+        "codes": "OilTop"
+    },
+    {
+        "name": "Oil Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/oil_bottom.gif",
+        "codes": "OilBottom"
+    },
+    {
+        "name": "Sand Pot Top",
+        "type": "toggle",
+        "img": "images/items/sand_top.gif",
+        "codes": "SandTop"
+    },
+    {
+        "name": "Sand Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/sand_bottom.gif",
+        "codes": "SandBottom"
+    },
+    {
+        "name": "Water Pot Top",
+        "type": "toggle",
+        "img": "images/items/water_top.gif",
+        "codes": "WaterTop"
+    },
+    {
+        "name": "Water Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/water_bottom.gif",
+        "codes": "WaterBottom"
+    },
+    {
+        "name": "Wax Pot Top",
+        "type": "toggle",
+        "img": "images/items/wax_top.gif",
+        "codes": "WaxTop"
+    },
+    {
+        "name": "Wax Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/wax_bottom.gif",
+        "codes": "WaxBottom"
+    },
+    {
+        "name": "Wood Pot Top",
+        "type": "toggle",
+        "img": "images/items/wood_top.gif",
+        "codes": "WoodTop"
+    },
+    {
+        "name": "Wood Pot Bottom",
+        "type": "toggle",
+        "img": "images/items/wood_bottom.gif",
+        "codes": "WoodBottom"
+    },
+    {
+        "name": "Front Door Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "FrontKey"
+    },
+    {
+        "name": "Underground Lake Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "LakeKey"
+    },
+    {
+        "name": "Office Elevator Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "OfficeElKey"
+    },
+    {
+        "name": "Bedroom Elevator Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "BedElKey"
+    },
+    {
+        "name": "Bedroom Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "BedKey"
+    },
+    {
+        "name": "Workshop Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "WorkshopKey"
+    },
+    {
+        "name": "Office Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "OfficeKey"
+    },
+    {
+        "name": "Library Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "LibraryKey"
+    },
+    {
+        "name": "Generator Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "MechKey"
+    },
+    {
+        "name": "3-Way Elevator Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "ThreeElKey"
+    },
+    {
+        "name": "UFO Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "PlanetKey"
+    },
+    {
+        "name": "Janitor Closet Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "BathKey"
+    },
+    {
+        "name": "Torture Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "TortureKey"
+    },
+    {
+        "name": "Puzzle Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "PuzzleKey"
+    },
+    {
+        "name": "Prehistoric Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "BeastKey"
+    },
+    {
+        "name": "Ocean Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "OceanKey"
+    },
+    {
+        "name": "Greenhouse Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "PlantKey"
+    },
+    {
+        "name": "Projector Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "ProjKey"
+    },
+    {
+        "name": "Egypt Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "EgyptKey"
+    },
+    {
+        "name": "Shaman Room Key",
+        "type": "toggle",
+        "img": "images/items/key_placeholder.png",
+        "codes": "ShamanKey"
+    },
+    {
+        "name": "Crawling",
+        "type": "toggle",
+        "img": "images/items/crawling.jpg",
+        "codes": "Crawling"
+    },
     {
         "name": "Toggle",
         "type": "toggle",
