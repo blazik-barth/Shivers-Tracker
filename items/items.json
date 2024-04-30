@@ -2,121 +2,121 @@
     {
         "name": "Ash Pot Top",
         "type": "toggle",
-        "img": "images/items/ash_top.gif",
+        "img": "images/items/ash_top.png",
         "codes": "AshTop"
     },
     {
         "name": "Ash Pot Bottom",
         "type": "toggle",
-        "img": "images/items/ash_bottom.gif",
+        "img": "images/items/ash_btm.png",
         "codes": "AshBottom"
     },
     {
         "name": "Cloth Pot Top",
         "type": "toggle",
-        "img": "images/items/cloth_top.gif",
+        "img": "images/items/cloth_top.png",
         "codes": "ClothTop"
     },
     {
         "name": "Cloth Pot Bottom",
         "type": "toggle",
-        "img": "images/items/cloth_bottom.gif",
+        "img": "images/items/cloth_btm.png",
         "codes": "ClothBottom"
     },
     {
         "name": "Crystal Pot Top",
         "type": "toggle",
-        "img": "images/items/crystal_top.gif",
+        "img": "images/items/crystal_top.png",
         "codes": "CrystalTop"
     },
     {
         "name": "Crystal Pot Bottom",
         "type": "toggle",
-        "img": "images/items/crystal_bottom.gif",
+        "img": "images/items/crystal_btm.png",
         "codes": "CrystalBottom"
     },
     {
         "name": "Lightning Pot Top",
         "type": "toggle",
-        "img": "images/items/lightning_top.gif",
+        "img": "images/items/elec_top.png",
         "codes": "LightningTop"
     },
     {
         "name": "Lightning Pot Bottom",
         "type": "toggle",
-        "img": "images/items/lightning_bottom.gif",
+        "img": "images/items/elec_btm.png",
         "codes": "LightningBottom"
     },
     {
         "name": "Metal Pot Top",
         "type": "toggle",
-        "img": "images/items/metal_top.gif",
+        "img": "images/items/metal_top.png",
         "codes": "MetalTop"
     },
     {
         "name": "Metal Pot Bottom",
         "type": "toggle",
-        "img": "images/items/metal_bottom.gif",
+        "img": "images/items/metal_btm.png",
         "codes": "MetalBottom"
     },
     {
         "name": "Oil Pot Top",
         "type": "toggle",
-        "img": "images/items/oil_top.gif",
+        "img": "images/items/oil_top.png",
         "codes": "OilTop"
     },
     {
         "name": "Oil Pot Bottom",
         "type": "toggle",
-        "img": "images/items/oil_bottom.gif",
+        "img": "images/items/oil_btm.png",
         "codes": "OilBottom"
     },
     {
         "name": "Sand Pot Top",
         "type": "toggle",
-        "img": "images/items/sand_top.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "SandTop"
     },
     {
         "name": "Sand Pot Bottom",
         "type": "toggle",
-        "img": "images/items/sand_bottom.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "SandBottom"
     },
     {
         "name": "Water Pot Top",
         "type": "toggle",
-        "img": "images/items/water_top.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WaterTop"
     },
     {
         "name": "Water Pot Bottom",
         "type": "toggle",
-        "img": "images/items/water_bottom.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WaterBottom"
     },
     {
         "name": "Wax Pot Top",
         "type": "toggle",
-        "img": "images/items/wax_top.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WaxTop"
     },
     {
         "name": "Wax Pot Bottom",
         "type": "toggle",
-        "img": "images/items/wax_bottom.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WaxBottom"
     },
     {
         "name": "Wood Pot Top",
         "type": "toggle",
-        "img": "images/items/wood_top.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WoodTop"
     },
     {
         "name": "Wood Pot Bottom",
         "type": "toggle",
-        "img": "images/items/wood_bottom.gif",
+        "img": "images/items/pot_placeholder.png",
         "codes": "WoodBottom"
     },
     {
@@ -168,7 +168,7 @@
         "codes": "LibraryKey"
     },
     {
-        "name": "Generator Room Key",
+        "name": "Mech Room Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "MechKey"
@@ -180,19 +180,19 @@
         "codes": "ThreeElKey"
     },
     {
-        "name": "UFO Room Key",
+        "name": "Planetarium Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "PlanetKey"
     },
     {
-        "name": "Janitor Closet Key",
+        "name": "Bathroom Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "BathKey"
     },
     {
-        "name": "Torture Room Key",
+        "name": "Man's Inhumanity To Man Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "TortureKey"
@@ -204,13 +204,13 @@
         "codes": "PuzzleKey"
     },
     {
-        "name": "Prehistoric Room Key",
+        "name": "Strange Beasts Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "BeastKey"
     },
     {
-        "name": "Ocean Room Key",
+        "name": "Mysteries of the Deep Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "OceanKey"
@@ -222,13 +222,13 @@
         "codes": "PlantKey"
     },
     {
-        "name": "Projector Room Key",
+        "name": "Projection Room Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "ProjKey"
     },
     {
-        "name": "Egypt Room Key",
+        "name": "Tombs & Curses Key",
         "type": "toggle",
         "img": "images/items/key_placeholder.png",
         "codes": "EgyptKey"
@@ -242,7 +242,7 @@
     {
         "name": "Crawling",
         "type": "toggle",
-        "img": "images/items/crawling.jpg",
+        "img": "images/items/key_placeholder.png",
         "codes": "Crawling"
     },
     {

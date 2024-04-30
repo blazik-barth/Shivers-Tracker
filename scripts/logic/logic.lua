@@ -223,5 +223,5 @@ function can_capture_wax() -- LIBRARY, SHAMAN, MYTHS
 end
 
 function can_capture_wood() -- MAZE, MYTHS, GODS, WORKSHOP
-    return has_workshop_access() or has_maze_access() or has_myth_access() or has_shaman_access() 
+    return has_maze_access() or has_myth_access() or has_shaman_access() or has_workshop_access()
 end
