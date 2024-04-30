@@ -1,20 +1,21 @@
-﻿{
-    "name": "Shivers Tracker for PopTracker",
+﻿
+{
+    "name": "SHIVERS POPTRACKER PACK",
     "game_name": "Shivers",
-    "package_version": "0.2",
-    "package_uid": "shivers_tracker",
+    "package_version": "0.3",
+    "package_uid": "shivers_pack",
     "author": "Jasbird",
     "variants": {
         "standard": {
             "display_name": "Map Tracker",
             "flags": [
-                "ap"
+                "ap" //enables AP autotracking interface - remove if not needed
             ]
         },
         "var_itemsonly": {
             "display_name": "Items Only",
             "flags": [
-                "ap"
+                "ap" //enables AP autotracking interface - remove if not needed
             ]
         }
     }
