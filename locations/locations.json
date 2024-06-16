@@ -391,7 +391,7 @@
                 "access_rules": ["$has_bedroom_access"],
                 "sections": [
                     {
-                        "name": "Progessor Windlenot's Diary",
+                        "name": "Professor Windlenot's Diary",
                         "item_count": 1
                     }
                 ],
